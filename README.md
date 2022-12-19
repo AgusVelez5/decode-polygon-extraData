@@ -6,7 +6,7 @@ Special thanks to [startgeek](https://github.com/startgeek), he sent me a workin
 
 Usage:
 
-- Takes as argument a json string.
+- Takes as argument a [json string](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify) of the [block](blockExample.json).
 
 ```
 go run main.go "{ ... }"
